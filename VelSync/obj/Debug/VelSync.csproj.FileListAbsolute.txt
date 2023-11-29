@@ -1,0 +1,1092 @@
+C:\Users\erik.carvalho\source\repos\VelSync\VelSync\bin\Debug\VelSync.exe.config
+C:\Users\erik.carvalho\source\repos\VelSync\VelSync\bin\Debug\VelSync.exe
+C:\Users\erik.carvalho\source\repos\VelSync\VelSync\bin\Debug\VelSync.pdb
+C:\Users\erik.carvalho\source\repos\VelSync\VelSync\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\erik.carvalho\source\repos\VelSync\VelSync\obj\Debug\VelSync.csproj.AssemblyReference.cache
+C:\Users\erik.carvalho\source\repos\VelSync\VelSync\obj\Debug\VelSync.Form1.resources
+C:\Users\erik.carvalho\source\repos\VelSync\VelSync\obj\Debug\VelSync.Properties.Resources.resources
+C:\Users\erik.carvalho\source\repos\VelSync\VelSync\obj\Debug\VelSync.csproj.GenerateResource.cache
+C:\Users\erik.carvalho\source\repos\VelSync\VelSync\obj\Debug\VelSync.csproj.CoreCompileInputs.cache
+C:\Users\erik.carvalho\source\repos\VelSync\VelSync\obj\Debug\VelSync.csproj.CopyComplete
+C:\Users\erik.carvalho\source\repos\VelSync\VelSync\obj\Debug\VelSync.exe
+C:\Users\erik.carvalho\source\repos\VelSync\VelSync\obj\Debug\VelSync.pdb
+F:\PROJETO BARBEARIA\ModeloFORM - BARBEARIA\VelSync\VelSync\bin\Debug\VelSync.exe.config
+F:\PROJETO BARBEARIA\ModeloFORM - BARBEARIA\VelSync\VelSync\bin\Debug\VelSync.exe
+F:\PROJETO BARBEARIA\ModeloFORM - BARBEARIA\VelSync\VelSync\bin\Debug\VelSync.pdb
+F:\PROJETO BARBEARIA\ModeloFORM - BARBEARIA\VelSync\VelSync\bin\Debug\FontAwesome.Sharp.dll
+F:\PROJETO BARBEARIA\ModeloFORM - BARBEARIA\VelSync\VelSync\obj\Debug\VelSync.csproj.AssemblyReference.cache
+F:\PROJETO BARBEARIA\ModeloFORM - BARBEARIA\VelSync\VelSync\obj\Debug\VelSync.csproj.SuggestedBindingRedirects.cache
+F:\PROJETO BARBEARIA\ModeloFORM - BARBEARIA\VelSync\VelSync\obj\Debug\VelSync.Form1.resources
+F:\PROJETO BARBEARIA\ModeloFORM - BARBEARIA\VelSync\VelSync\obj\Debug\VelSync.Properties.Resources.resources
+F:\PROJETO BARBEARIA\ModeloFORM - BARBEARIA\VelSync\VelSync\obj\Debug\VelSync.csproj.GenerateResource.cache
+F:\PROJETO BARBEARIA\ModeloFORM - BARBEARIA\VelSync\VelSync\obj\Debug\VelSync.csproj.CoreCompileInputs.cache
+F:\PROJETO BARBEARIA\ModeloFORM - BARBEARIA\VelSync\VelSync\obj\Debug\VelSync.csproj.CopyComplete
+F:\PROJETO BARBEARIA\ModeloFORM - BARBEARIA\VelSync\VelSync\obj\Debug\VelSync.exe
+F:\PROJETO BARBEARIA\ModeloFORM - BARBEARIA\VelSync\VelSync\obj\Debug\VelSync.pdb
+E:\PROJETO BARBEARIA\ModeloFORM - BARBEARIA\VelSync\VelSync\bin\Debug\VelSync.exe.config
+E:\PROJETO BARBEARIA\ModeloFORM - BARBEARIA\VelSync\VelSync\bin\Debug\VelSync.exe
+E:\PROJETO BARBEARIA\ModeloFORM - BARBEARIA\VelSync\VelSync\bin\Debug\VelSync.pdb
+E:\PROJETO BARBEARIA\ModeloFORM - BARBEARIA\VelSync\VelSync\bin\Debug\FontAwesome.Sharp.dll
+E:\PROJETO BARBEARIA\ModeloFORM - BARBEARIA\VelSync\VelSync\obj\Debug\VelSync.csproj.AssemblyReference.cache
+E:\PROJETO BARBEARIA\ModeloFORM - BARBEARIA\VelSync\VelSync\obj\Debug\VelSync.Login.resources
+E:\PROJETO BARBEARIA\ModeloFORM - BARBEARIA\VelSync\VelSync\obj\Debug\VelSync.Frm_dashboard.resources
+E:\PROJETO BARBEARIA\ModeloFORM - BARBEARIA\VelSync\VelSync\obj\Debug\VelSync.Properties.Resources.resources
+E:\PROJETO BARBEARIA\ModeloFORM - BARBEARIA\VelSync\VelSync\obj\Debug\VelSync.VelSync_Cadastro.resources
+E:\PROJETO BARBEARIA\ModeloFORM - BARBEARIA\VelSync\VelSync\obj\Debug\VelSync.Velsync_Home.resources
+E:\PROJETO BARBEARIA\ModeloFORM - BARBEARIA\VelSync\VelSync\obj\Debug\VelSync.csproj.GenerateResource.cache
+E:\PROJETO BARBEARIA\ModeloFORM - BARBEARIA\VelSync\VelSync\obj\Debug\VelSync.csproj.CoreCompileInputs.cache
+E:\PROJETO BARBEARIA\ModeloFORM - BARBEARIA\VelSync\VelSync\obj\Debug\VelSync.csproj.CopyComplete
+E:\PROJETO BARBEARIA\ModeloFORM - BARBEARIA\VelSync\VelSync\obj\Debug\VelSync.exe
+E:\PROJETO BARBEARIA\ModeloFORM - BARBEARIA\VelSync\VelSync\obj\Debug\VelSync.pdb
+E:\PROJETO BARBEARIA\ModeloFORM - BARBEARIA\VelSync\VelSync\obj\Debug\VelSync.Velsync_agendamento.resources
+E:\PROJETO BARBEARIA\ModeloFORM - BARBEARIA\VelSync\VelSync\obj\Debug\VelSync.Velsync_relatorio.resources
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\obj\Debug\VelSync.csproj.AssemblyReference.cache
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\obj\Debug\VelSync.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\obj\Debug\VelSync.Login.resources
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\obj\Debug\VelSync.Frm_dashboard.resources
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\obj\Debug\VelSync.Properties.Resources.resources
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\obj\Debug\VelSync.VelSync_Cadastro.resources
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\obj\Debug\VelSync.Velsync_Home.resources
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\obj\Debug\VelSync.Velsync_relatorio.resources
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\obj\Debug\VelSync.csproj.GenerateResource.cache
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\obj\Debug\VelSync.csproj.CoreCompileInputs.cache
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\obj\Debug\VelSync.exe
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\obj\Debug\VelSync.pdb
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\bin\Debug\VelSync.exe.config
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\bin\Debug\VelSync.exe
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\bin\Debug\VelSync.pdb
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\obj\Debug\VelSync.csproj.CopyComplete
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\bin\Debug\Google.Protobuf.dll
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\bin\Debug\MySql.Data.dll
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\bin\Debug\System.Buffers.dll
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\bin\Debug\System.Memory.dll
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\bin\Debug\ZstdSharp.dll
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\bin\Debug\Google.Protobuf.pdb
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\bin\Debug\Google.Protobuf.xml
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\bin\Debug\MySql.Data.xml
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\bin\Debug\System.Buffers.xml
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\bin\Debug\System.Memory.xml
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aluno.LAB01-41\Desktop\VelSync\VelSync\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\bin\Debug\VelSync.exe.config
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\bin\Debug\VelSync.exe
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\bin\Debug\VelSync.pdb
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\bin\Debug\Google.Protobuf.dll
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\bin\Debug\MySql.Data.dll
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\bin\Debug\System.Buffers.dll
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\bin\Debug\System.IO.Pipelines.dll
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\bin\Debug\System.Memory.dll
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\bin\Debug\ZstdSharp.dll
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\bin\Debug\Google.Protobuf.pdb
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\bin\Debug\Google.Protobuf.xml
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\bin\Debug\MySql.Data.xml
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\bin\Debug\System.Buffers.xml
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\bin\Debug\System.IO.Pipelines.xml
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\bin\Debug\System.Memory.xml
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\obj\Debug\VelSync.csproj.AssemblyReference.cache
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\obj\Debug\VelSync.Login.resources
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\obj\Debug\VelSync.Frm_dashboard.resources
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\obj\Debug\VelSync.Properties.Resources.resources
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\obj\Debug\VelSync.VelSync_Cadastro.resources
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\obj\Debug\VelSync.Velsync_Home.resources
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\obj\Debug\VelSync.Velsync_relatorio.resources
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\obj\Debug\VelSync.csproj.GenerateResource.cache
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\obj\Debug\VelSync.csproj.CoreCompileInputs.cache
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\obj\Debug\VelSync.csproj.CopyComplete
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\obj\Debug\VelSync.exe
+C:\Users\BrandsOne\Desktop\Dev Projetos\VelSync\VelSync\obj\Debug\VelSync.pdb
+D:\VelSync 06.11.23\VelSync\bin\Debug\VelSync.exe.config
+D:\VelSync 06.11.23\VelSync\bin\Debug\VelSync.exe
+D:\VelSync 06.11.23\VelSync\bin\Debug\VelSync.pdb
+D:\VelSync 06.11.23\VelSync\bin\Debug\BouncyCastle.Cryptography.dll
+D:\VelSync 06.11.23\VelSync\bin\Debug\FontAwesome.Sharp.dll
+D:\VelSync 06.11.23\VelSync\bin\Debug\Google.Protobuf.dll
+D:\VelSync 06.11.23\VelSync\bin\Debug\K4os.Compression.LZ4.dll
+D:\VelSync 06.11.23\VelSync\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\VelSync 06.11.23\VelSync\bin\Debug\K4os.Hash.xxHash.dll
+D:\VelSync 06.11.23\VelSync\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VelSync 06.11.23\VelSync\bin\Debug\MySql.Data.dll
+D:\VelSync 06.11.23\VelSync\bin\Debug\System.Buffers.dll
+D:\VelSync 06.11.23\VelSync\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\VelSync 06.11.23\VelSync\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\VelSync 06.11.23\VelSync\bin\Debug\System.IO.Pipelines.dll
+D:\VelSync 06.11.23\VelSync\bin\Debug\System.Memory.dll
+D:\VelSync 06.11.23\VelSync\bin\Debug\System.Numerics.Vectors.dll
+D:\VelSync 06.11.23\VelSync\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VelSync 06.11.23\VelSync\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\VelSync 06.11.23\VelSync\bin\Debug\ZstdSharp.dll
+D:\VelSync 06.11.23\VelSync\bin\Debug\BouncyCastle.Cryptography.xml
+D:\VelSync 06.11.23\VelSync\bin\Debug\Google.Protobuf.pdb
+D:\VelSync 06.11.23\VelSync\bin\Debug\Google.Protobuf.xml
+D:\VelSync 06.11.23\VelSync\bin\Debug\K4os.Compression.LZ4.xml
+D:\VelSync 06.11.23\VelSync\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\VelSync 06.11.23\VelSync\bin\Debug\K4os.Hash.xxHash.xml
+D:\VelSync 06.11.23\VelSync\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\VelSync 06.11.23\VelSync\bin\Debug\MySql.Data.xml
+D:\VelSync 06.11.23\VelSync\bin\Debug\System.Buffers.xml
+D:\VelSync 06.11.23\VelSync\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\VelSync 06.11.23\VelSync\bin\Debug\System.IO.Pipelines.xml
+D:\VelSync 06.11.23\VelSync\bin\Debug\System.Memory.xml
+D:\VelSync 06.11.23\VelSync\bin\Debug\System.Numerics.Vectors.xml
+D:\VelSync 06.11.23\VelSync\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\VelSync 06.11.23\VelSync\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\VelSync 06.11.23\VelSync\obj\Debug\VelSync.csproj.AssemblyReference.cache
+D:\VelSync 06.11.23\VelSync\obj\Debug\VelSync.Login.resources
+D:\VelSync 06.11.23\VelSync\obj\Debug\VelSync.Frm_dashboard.resources
+D:\VelSync 06.11.23\VelSync\obj\Debug\VelSync.Properties.Resources.resources
+D:\VelSync 06.11.23\VelSync\obj\Debug\VelSync.VelSync_Cadastro.resources
+D:\VelSync 06.11.23\VelSync\obj\Debug\VelSync.Velsync_Home.resources
+D:\VelSync 06.11.23\VelSync\obj\Debug\VelSync.Velsync_relatorio.resources
+D:\VelSync 06.11.23\VelSync\obj\Debug\VelSync.csproj.GenerateResource.cache
+D:\VelSync 06.11.23\VelSync\obj\Debug\VelSync.csproj.CoreCompileInputs.cache
+D:\VelSync 06.11.23\VelSync\obj\Debug\VelSync.csproj.CopyComplete
+D:\VelSync 06.11.23\VelSync\obj\Debug\VelSync.exe
+D:\VelSync 06.11.23\VelSync\obj\Debug\VelSync.pdb
+F:\VelSync 06.11.23\VelSync\bin\Debug\VelSync.exe.config
+F:\VelSync 06.11.23\VelSync\bin\Debug\VelSync.exe
+F:\VelSync 06.11.23\VelSync\bin\Debug\VelSync.pdb
+F:\VelSync 06.11.23\VelSync\bin\Debug\BouncyCastle.Cryptography.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\FontAwesome.Sharp.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\Google.Protobuf.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\K4os.Compression.LZ4.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\K4os.Hash.xxHash.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\MySql.Data.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\System.Buffers.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\System.IO.Pipelines.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\System.Memory.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\System.Numerics.Vectors.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\ZstdSharp.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\BouncyCastle.Cryptography.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\Google.Protobuf.pdb
+F:\VelSync 06.11.23\VelSync\bin\Debug\Google.Protobuf.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\K4os.Compression.LZ4.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\K4os.Hash.xxHash.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\MySql.Data.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\System.Buffers.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\System.IO.Pipelines.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\System.Memory.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\System.Numerics.Vectors.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\VelSync 06.11.23\VelSync\obj\Debug\VelSync.csproj.AssemblyReference.cache
+F:\VelSync 06.11.23\VelSync\obj\Debug\VelSync.csproj.SuggestedBindingRedirects.cache
+F:\VelSync 06.11.23\VelSync\obj\Debug\VelSync.Velsync_agendamento.resources
+F:\VelSync 06.11.23\VelSync\obj\Debug\VelSync.Velsync_login.resources
+F:\VelSync 06.11.23\VelSync\obj\Debug\VelSync.Frm_dashboard.resources
+F:\VelSync 06.11.23\VelSync\obj\Debug\VelSync.Properties.Resources.resources
+F:\VelSync 06.11.23\VelSync\obj\Debug\VelSync.VelSync_Cadastro.resources
+F:\VelSync 06.11.23\VelSync\obj\Debug\VelSync.Velsync_Home.resources
+F:\VelSync 06.11.23\VelSync\obj\Debug\VelSync.Velsync_relatorio.resources
+F:\VelSync 06.11.23\VelSync\obj\Debug\VelSync.csproj.GenerateResource.cache
+F:\VelSync 06.11.23\VelSync\obj\Debug\VelSync.csproj.CoreCompileInputs.cache
+F:\VelSync 06.11.23\VelSync\obj\Debug\VelSync.csproj.CopyComplete
+F:\VelSync 06.11.23\VelSync\obj\Debug\VelSync.exe
+F:\VelSync 06.11.23\VelSync\obj\Debug\VelSync.pdb
+E:\VelSync 06.11.23\VelSync\bin\Debug\VelSync.exe.config
+E:\VelSync 06.11.23\VelSync\bin\Debug\VelSync.exe
+E:\VelSync 06.11.23\VelSync\bin\Debug\VelSync.pdb
+E:\VelSync 06.11.23\VelSync\bin\Debug\BouncyCastle.Cryptography.dll
+E:\VelSync 06.11.23\VelSync\bin\Debug\FontAwesome.Sharp.dll
+E:\VelSync 06.11.23\VelSync\bin\Debug\Google.Protobuf.dll
+E:\VelSync 06.11.23\VelSync\bin\Debug\K4os.Compression.LZ4.dll
+E:\VelSync 06.11.23\VelSync\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\VelSync 06.11.23\VelSync\bin\Debug\K4os.Hash.xxHash.dll
+E:\VelSync 06.11.23\VelSync\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\VelSync 06.11.23\VelSync\bin\Debug\MySql.Data.dll
+E:\VelSync 06.11.23\VelSync\bin\Debug\System.Buffers.dll
+E:\VelSync 06.11.23\VelSync\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\VelSync 06.11.23\VelSync\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\VelSync 06.11.23\VelSync\bin\Debug\System.IO.Pipelines.dll
+E:\VelSync 06.11.23\VelSync\bin\Debug\System.Memory.dll
+E:\VelSync 06.11.23\VelSync\bin\Debug\System.Numerics.Vectors.dll
+E:\VelSync 06.11.23\VelSync\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\VelSync 06.11.23\VelSync\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\VelSync 06.11.23\VelSync\bin\Debug\ZstdSharp.dll
+E:\VelSync 06.11.23\VelSync\bin\Debug\BouncyCastle.Cryptography.xml
+E:\VelSync 06.11.23\VelSync\bin\Debug\Google.Protobuf.pdb
+E:\VelSync 06.11.23\VelSync\bin\Debug\Google.Protobuf.xml
+E:\VelSync 06.11.23\VelSync\bin\Debug\K4os.Compression.LZ4.xml
+E:\VelSync 06.11.23\VelSync\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\VelSync 06.11.23\VelSync\bin\Debug\K4os.Hash.xxHash.xml
+E:\VelSync 06.11.23\VelSync\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\VelSync 06.11.23\VelSync\bin\Debug\MySql.Data.xml
+E:\VelSync 06.11.23\VelSync\bin\Debug\System.Buffers.xml
+E:\VelSync 06.11.23\VelSync\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\VelSync 06.11.23\VelSync\bin\Debug\System.IO.Pipelines.xml
+E:\VelSync 06.11.23\VelSync\bin\Debug\System.Memory.xml
+E:\VelSync 06.11.23\VelSync\bin\Debug\System.Numerics.Vectors.xml
+E:\VelSync 06.11.23\VelSync\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\VelSync 06.11.23\VelSync\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\VelSync 06.11.23\VelSync\obj\Debug\VelSync.csproj.AssemblyReference.cache
+E:\VelSync 06.11.23\VelSync\obj\Debug\VelSync.Velsync_agendamento.resources
+E:\VelSync 06.11.23\VelSync\obj\Debug\VelSync.Velsync_login.resources
+E:\VelSync 06.11.23\VelSync\obj\Debug\VelSync.Frm_dashboard.resources
+E:\VelSync 06.11.23\VelSync\obj\Debug\VelSync.Properties.Resources.resources
+E:\VelSync 06.11.23\VelSync\obj\Debug\VelSync.VelSync_Cadastro.resources
+E:\VelSync 06.11.23\VelSync\obj\Debug\VelSync.Velsync_Home.resources
+E:\VelSync 06.11.23\VelSync\obj\Debug\VelSync.Velsync_relatorio.resources
+E:\VelSync 06.11.23\VelSync\obj\Debug\VelSync.csproj.GenerateResource.cache
+E:\VelSync 06.11.23\VelSync\obj\Debug\VelSync.csproj.CoreCompileInputs.cache
+E:\VelSync 06.11.23\VelSync\obj\Debug\VelSync.csproj.CopyComplete
+E:\VelSync 06.11.23\VelSync\obj\Debug\VelSync.exe
+E:\VelSync 06.11.23\VelSync\obj\Debug\VelSync.pdb
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.Licensing.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+F:\VelSync 06.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\VelSync.exe.config
+F:\VelSync 10.11.23\VelSync\bin\Debug\VelSync.exe
+F:\VelSync 10.11.23\VelSync\bin\Debug\VelSync.pdb
+F:\VelSync 10.11.23\VelSync\bin\Debug\BouncyCastle.Cryptography.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.Licensing.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\FontAwesome.Sharp.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\Google.Protobuf.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\K4os.Compression.LZ4.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\K4os.Hash.xxHash.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\MySql.Data.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\System.Buffers.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\System.IO.Pipelines.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\System.Memory.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\System.Numerics.Vectors.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\ZstdSharp.dll
+F:\VelSync 10.11.23\VelSync\bin\Debug\BouncyCastle.Cryptography.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\Google.Protobuf.pdb
+F:\VelSync 10.11.23\VelSync\bin\Debug\Google.Protobuf.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\K4os.Compression.LZ4.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\K4os.Hash.xxHash.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\MySql.Data.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\System.Buffers.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\System.IO.Pipelines.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\System.Memory.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\System.Numerics.Vectors.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\VelSync 10.11.23\VelSync\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\VelSync 10.11.23\VelSync\obj\Debug\VelSync.csproj.AssemblyReference.cache
+F:\VelSync 10.11.23\VelSync\obj\Debug\VelSync.csproj.SuggestedBindingRedirects.cache
+F:\VelSync 10.11.23\VelSync\obj\Debug\VelSync.Velsync_agendamento.resources
+F:\VelSync 10.11.23\VelSync\obj\Debug\VelSync.Velsync_login.resources
+F:\VelSync 10.11.23\VelSync\obj\Debug\VelSync.Frm_dashboard.resources
+F:\VelSync 10.11.23\VelSync\obj\Debug\VelSync.Properties.Resources.resources
+F:\VelSync 10.11.23\VelSync\obj\Debug\VelSync.VelSync_Cadastro.resources
+F:\VelSync 10.11.23\VelSync\obj\Debug\VelSync.Velsync_Home.resources
+F:\VelSync 10.11.23\VelSync\obj\Debug\VelSync.Velsync_relatorio.resources
+F:\VelSync 10.11.23\VelSync\obj\Debug\VelSync.csproj.GenerateResource.cache
+F:\VelSync 10.11.23\VelSync\obj\Debug\VelSync.csproj.CoreCompileInputs.cache
+F:\VelSync 10.11.23\VelSync\obj\Debug\VelSync.csproj.CopyComplete
+F:\VelSync 10.11.23\VelSync\obj\Debug\VelSync.exe
+F:\VelSync 10.11.23\VelSync\obj\Debug\VelSync.pdb
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\VelSync.exe.config
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\VelSync.exe
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\VelSync.pdb
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\BouncyCastle.Cryptography.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.Licensing.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\FontAwesome.Sharp.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Google.Protobuf.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\K4os.Compression.LZ4.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\K4os.Hash.xxHash.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\MySql.Data.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\System.Buffers.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\System.IO.Pipelines.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\System.Memory.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\System.Numerics.Vectors.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\ZstdSharp.dll
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\BouncyCastle.Cryptography.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Google.Protobuf.pdb
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Google.Protobuf.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\K4os.Compression.LZ4.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\K4os.Hash.xxHash.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\MySql.Data.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\System.Buffers.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\System.IO.Pipelines.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\System.Memory.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\System.Numerics.Vectors.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\VelSync 10.11.23 - Copia\VelSync\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\VelSync 10.11.23 - Copia\VelSync\obj\Debug\VelSync.csproj.AssemblyReference.cache
+E:\VelSync 10.11.23 - Copia\VelSync\obj\Debug\VelSync.Velsync_agendamento.resources
+E:\VelSync 10.11.23 - Copia\VelSync\obj\Debug\VelSync.Velsync_login.resources
+E:\VelSync 10.11.23 - Copia\VelSync\obj\Debug\VelSync.Frm_dashboard.resources
+E:\VelSync 10.11.23 - Copia\VelSync\obj\Debug\VelSync.Properties.Resources.resources
+E:\VelSync 10.11.23 - Copia\VelSync\obj\Debug\VelSync.VelSync_Cadastro.resources
+E:\VelSync 10.11.23 - Copia\VelSync\obj\Debug\VelSync.Velsync_Home.resources
+E:\VelSync 10.11.23 - Copia\VelSync\obj\Debug\VelSync.Velsync_relatorio.resources
+E:\VelSync 10.11.23 - Copia\VelSync\obj\Debug\VelSync.csproj.GenerateResource.cache
+E:\VelSync 10.11.23 - Copia\VelSync\obj\Debug\VelSync.csproj.CoreCompileInputs.cache
+E:\VelSync 10.11.23 - Copia\VelSync\obj\Debug\VelSync.csproj.CopyComplete
+E:\VelSync 10.11.23 - Copia\VelSync\obj\Debug\VelSync.exe
+E:\VelSync 10.11.23 - Copia\VelSync\obj\Debug\VelSync.pdb
+E:\VelSync 10.11.23 - Copia\VelSync\obj\Debug\VelSync.Velsync_Alterar.resources
+F:\VelSync 16.11.23\VelSync\obj\Debug\VelSync.csproj.AssemblyReference.cache
+F:\VelSync 16.11.23\VelSync\obj\Debug\VelSync.csproj.SuggestedBindingRedirects.cache
+F:\VelSync 16.11.23\VelSync\obj\Debug\VelSync.Velsync_agendamento.resources
+F:\VelSync 16.11.23\VelSync\obj\Debug\VelSync.Velsync_login.resources
+F:\VelSync 16.11.23\VelSync\obj\Debug\Velsync.Frm_dashboard.resources
+F:\VelSync 16.11.23\VelSync\obj\Debug\VelSync.Properties.Resources.resources
+F:\VelSync 16.11.23\VelSync\obj\Debug\Velsync.Velsync_Usuarios.resources
+F:\VelSync 16.11.23\VelSync\obj\Debug\VelSync.Velsync_relatorio.resources
+F:\VelSync 16.11.23\VelSync\obj\Debug\VelSync.csproj.GenerateResource.cache
+F:\VelSync 16.11.23\VelSync\obj\Debug\VelSync.csproj.CoreCompileInputs.cache
+F:\VelSync 16.11.23\VelSync\obj\Debug\VelSync.exe
+F:\VelSync 16.11.23\VelSync\obj\Debug\VelSync.pdb
+F:\VelSync 16.11.23\VelSync\bin\Debug\VelSync.exe.config
+F:\VelSync 16.11.23\VelSync\bin\Debug\VelSync.exe
+F:\VelSync 16.11.23\VelSync\bin\Debug\VelSync.pdb
+F:\VelSync 16.11.23\VelSync\bin\Debug\BouncyCastle.Cryptography.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.Licensing.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\FontAwesome.Sharp.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\Google.Protobuf.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\K4os.Compression.LZ4.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\K4os.Hash.xxHash.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\MySql.Data.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\System.Buffers.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\System.IO.Pipelines.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\System.Memory.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\System.Numerics.Vectors.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\ZstdSharp.dll
+F:\VelSync 16.11.23\VelSync\bin\Debug\BouncyCastle.Cryptography.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\Google.Protobuf.pdb
+F:\VelSync 16.11.23\VelSync\bin\Debug\Google.Protobuf.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\K4os.Compression.LZ4.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\K4os.Hash.xxHash.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\MySql.Data.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\System.Buffers.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\System.IO.Pipelines.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\System.Memory.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\System.Numerics.Vectors.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\VelSync 16.11.23\VelSync\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\VelSync 16.11.23\VelSync\obj\Debug\VelSync.csproj.CopyComplete
+E:\VelSync 20.11.23\VelSync\bin\Debug\VelSync.exe.config
+E:\VelSync 20.11.23\VelSync\bin\Debug\VelSync.exe
+E:\VelSync 20.11.23\VelSync\bin\Debug\VelSync.pdb
+E:\VelSync 20.11.23\VelSync\bin\Debug\BouncyCastle.Cryptography.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.Licensing.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\FontAwesome.Sharp.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\Google.Protobuf.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\K4os.Compression.LZ4.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\K4os.Hash.xxHash.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\MySql.Data.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\System.Buffers.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\System.IO.Pipelines.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\System.Memory.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\System.Numerics.Vectors.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\ZstdSharp.dll
+E:\VelSync 20.11.23\VelSync\bin\Debug\BouncyCastle.Cryptography.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\Google.Protobuf.pdb
+E:\VelSync 20.11.23\VelSync\bin\Debug\Google.Protobuf.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\K4os.Compression.LZ4.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\K4os.Hash.xxHash.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\MySql.Data.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\System.Buffers.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\System.IO.Pipelines.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\System.Memory.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\System.Numerics.Vectors.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\VelSync 20.11.23\VelSync\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\VelSync 20.11.23\VelSync\obj\Debug\VelSync.csproj.AssemblyReference.cache
+E:\VelSync 20.11.23\VelSync\obj\Debug\VelSync.Velsync_agendamento.resources
+E:\VelSync 20.11.23\VelSync\obj\Debug\VelSync.Velsync_login.resources
+E:\VelSync 20.11.23\VelSync\obj\Debug\Velsync.Frm_dashboard.resources
+E:\VelSync 20.11.23\VelSync\obj\Debug\VelSync.Properties.Resources.resources
+E:\VelSync 20.11.23\VelSync\obj\Debug\Velsync.Velsync_Usuarios.resources
+E:\VelSync 20.11.23\VelSync\obj\Debug\VelSync.Velsync_relatorio.resources
+E:\VelSync 20.11.23\VelSync\obj\Debug\VelSync.csproj.GenerateResource.cache
+E:\VelSync 20.11.23\VelSync\obj\Debug\VelSync.csproj.CoreCompileInputs.cache
+E:\VelSync 20.11.23\VelSync\obj\Debug\VelSync.csproj.CopyComplete
+E:\VelSync 20.11.23\VelSync\obj\Debug\VelSync.exe
+E:\VelSync 20.11.23\VelSync\obj\Debug\VelSync.pdb
+G:\VelSync 20.11.23\VelSync\obj\Debug\VelSync.csproj.AssemblyReference.cache
+G:\VelSync 20.11.23\VelSync\obj\Debug\VelSync.csproj.SuggestedBindingRedirects.cache
+G:\VelSync 20.11.23\VelSync\obj\Debug\VelSync.Velsync_agendamento.resources
+G:\VelSync 20.11.23\VelSync\obj\Debug\VelSync.Velsync_funcionario.resources
+G:\VelSync 20.11.23\VelSync\obj\Debug\VelSync.Velsync_produtos.resources
+G:\VelSync 20.11.23\VelSync\obj\Debug\VelSync.Velsync_login.resources
+G:\VelSync 20.11.23\VelSync\obj\Debug\Velsync.Frm_dashboard.resources
+G:\VelSync 20.11.23\VelSync\obj\Debug\VelSync.Properties.Resources.resources
+G:\VelSync 20.11.23\VelSync\obj\Debug\VelSync.Velsync_servico.resources
+G:\VelSync 20.11.23\VelSync\obj\Debug\Velsync.Velsync_Usuarios.resources
+G:\VelSync 20.11.23\VelSync\obj\Debug\VelSync.csproj.GenerateResource.cache
+G:\VelSync 20.11.23\VelSync\obj\Debug\VelSync.csproj.CoreCompileInputs.cache
+G:\VelSync 20.11.23\VelSync\obj\Debug\VelSync.exe
+G:\VelSync 20.11.23\VelSync\obj\Debug\VelSync.pdb
+G:\VelSync 20.11.23\VelSync\bin\Debug\VelSync.exe.config
+G:\VelSync 20.11.23\VelSync\bin\Debug\VelSync.exe
+G:\VelSync 20.11.23\VelSync\bin\Debug\VelSync.pdb
+G:\VelSync 20.11.23\VelSync\bin\Debug\BouncyCastle.Cryptography.dll
+G:\VelSync 20.11.23\VelSync\bin\Debug\FontAwesome.Sharp.dll
+G:\VelSync 20.11.23\VelSync\bin\Debug\Google.Protobuf.dll
+G:\VelSync 20.11.23\VelSync\bin\Debug\K4os.Compression.LZ4.dll
+G:\VelSync 20.11.23\VelSync\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\VelSync 20.11.23\VelSync\bin\Debug\K4os.Hash.xxHash.dll
+G:\VelSync 20.11.23\VelSync\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\VelSync 20.11.23\VelSync\bin\Debug\MySql.Data.dll
+G:\VelSync 20.11.23\VelSync\bin\Debug\System.Buffers.dll
+G:\VelSync 20.11.23\VelSync\bin\Debug\System.Configuration.ConfigurationManager.dll
+G:\VelSync 20.11.23\VelSync\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+G:\VelSync 20.11.23\VelSync\bin\Debug\System.IO.Pipelines.dll
+G:\VelSync 20.11.23\VelSync\bin\Debug\System.Memory.dll
+G:\VelSync 20.11.23\VelSync\bin\Debug\System.Numerics.Vectors.dll
+G:\VelSync 20.11.23\VelSync\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\VelSync 20.11.23\VelSync\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\VelSync 20.11.23\VelSync\bin\Debug\ZstdSharp.dll
+G:\VelSync 20.11.23\VelSync\bin\Debug\BouncyCastle.Cryptography.xml
+G:\VelSync 20.11.23\VelSync\bin\Debug\Google.Protobuf.pdb
+G:\VelSync 20.11.23\VelSync\bin\Debug\Google.Protobuf.xml
+G:\VelSync 20.11.23\VelSync\bin\Debug\K4os.Compression.LZ4.xml
+G:\VelSync 20.11.23\VelSync\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\VelSync 20.11.23\VelSync\bin\Debug\K4os.Hash.xxHash.xml
+G:\VelSync 20.11.23\VelSync\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\VelSync 20.11.23\VelSync\bin\Debug\MySql.Data.xml
+G:\VelSync 20.11.23\VelSync\bin\Debug\System.Buffers.xml
+G:\VelSync 20.11.23\VelSync\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\VelSync 20.11.23\VelSync\bin\Debug\System.IO.Pipelines.xml
+G:\VelSync 20.11.23\VelSync\bin\Debug\System.Memory.xml
+G:\VelSync 20.11.23\VelSync\bin\Debug\System.Numerics.Vectors.xml
+G:\VelSync 20.11.23\VelSync\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\VelSync 20.11.23\VelSync\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\VelSync 20.11.23\VelSync\obj\Debug\VelSync.csproj.CopyComplete
+E:\VelSync 21.11.23 (alternativo)\VelSync\obj\Debug\VelSync.csproj.AssemblyReference.cache
+E:\VelSync 21.11.23 (alternativo)\VelSync\obj\Debug\VelSync.Velsync_agendamento.resources
+E:\VelSync 21.11.23 (alternativo)\VelSync\obj\Debug\VelSync.Velsync_funcionario.resources
+E:\VelSync 21.11.23 (alternativo)\VelSync\obj\Debug\VelSync.Velsync_produtos.resources
+E:\VelSync 21.11.23 (alternativo)\VelSync\obj\Debug\VelSync.Velsync_login.resources
+E:\VelSync 21.11.23 (alternativo)\VelSync\obj\Debug\Velsync.Frm_dashboard.resources
+E:\VelSync 21.11.23 (alternativo)\VelSync\obj\Debug\VelSync.Properties.Resources.resources
+E:\VelSync 21.11.23 (alternativo)\VelSync\obj\Debug\VelSync.Velsync_servico.resources
+E:\VelSync 21.11.23 (alternativo)\VelSync\obj\Debug\Velsync.Velsync_Usuarios.resources
+E:\VelSync 21.11.23 (alternativo)\VelSync\obj\Debug\VelSync.csproj.GenerateResource.cache
+E:\VelSync 21.11.23 (alternativo)\VelSync\obj\Debug\VelSync.csproj.CoreCompileInputs.cache
+E:\VelSync 21.11.23 (alternativo)\VelSync\obj\Debug\VelSync.exe
+E:\VelSync 21.11.23 (alternativo)\VelSync\obj\Debug\VelSync.pdb
+E:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\VelSync.exe.config
+E:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\VelSync.exe
+E:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\VelSync.pdb
+E:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\BouncyCastle.Cryptography.dll
+E:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\FontAwesome.Sharp.dll
+E:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\Google.Protobuf.dll
+E:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\K4os.Compression.LZ4.dll
+E:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\K4os.Hash.xxHash.dll
+E:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\MySql.Data.dll
+E:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\System.Buffers.dll
+E:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\System.IO.Pipelines.dll
+E:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\System.Memory.dll
+E:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\System.Numerics.Vectors.dll
+E:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\ZstdSharp.dll
+E:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\BouncyCastle.Cryptography.xml
+E:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\Google.Protobuf.pdb
+E:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\Google.Protobuf.xml
+E:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\K4os.Compression.LZ4.xml
+E:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\K4os.Hash.xxHash.xml
+E:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\MySql.Data.xml
+E:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\System.Buffers.xml
+E:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\System.IO.Pipelines.xml
+E:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\System.Memory.xml
+E:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\System.Numerics.Vectors.xml
+E:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\VelSync 21.11.23 (alternativo)\VelSync\obj\Debug\VelSync.csproj.CopyComplete
+F:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\VelSync.exe.config
+F:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\VelSync.exe
+F:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\VelSync.pdb
+F:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\BouncyCastle.Cryptography.dll
+F:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\FontAwesome.Sharp.dll
+F:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\Google.Protobuf.dll
+F:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\K4os.Compression.LZ4.dll
+F:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\K4os.Hash.xxHash.dll
+F:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\MySql.Data.dll
+F:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\System.Buffers.dll
+F:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\System.IO.Pipelines.dll
+F:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\System.Memory.dll
+F:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\System.Numerics.Vectors.dll
+F:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\ZstdSharp.dll
+F:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\BouncyCastle.Cryptography.xml
+F:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\Google.Protobuf.pdb
+F:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\Google.Protobuf.xml
+F:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\K4os.Compression.LZ4.xml
+F:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\K4os.Hash.xxHash.xml
+F:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\MySql.Data.xml
+F:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\System.Buffers.xml
+F:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\System.IO.Pipelines.xml
+F:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\System.Memory.xml
+F:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\System.Numerics.Vectors.xml
+F:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\VelSync 21.11.23 (alternativo)\VelSync\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\VelSync 21.11.23 (alternativo)\VelSync\obj\Debug\VelSync.csproj.AssemblyReference.cache
+F:\VelSync 21.11.23 (alternativo)\VelSync\obj\Debug\VelSync.csproj.SuggestedBindingRedirects.cache
+F:\VelSync 21.11.23 (alternativo)\VelSync\obj\Debug\VelSync.Velsync_agendamento.resources
+F:\VelSync 21.11.23 (alternativo)\VelSync\obj\Debug\VelSync.Velsync_funcionario.resources
+F:\VelSync 21.11.23 (alternativo)\VelSync\obj\Debug\VelSync.Velsync_produtos.resources
+F:\VelSync 21.11.23 (alternativo)\VelSync\obj\Debug\VelSync.Velsync_login.resources
+F:\VelSync 21.11.23 (alternativo)\VelSync\obj\Debug\Velsync.Frm_dashboard.resources
+F:\VelSync 21.11.23 (alternativo)\VelSync\obj\Debug\VelSync.Properties.Resources.resources
+F:\VelSync 21.11.23 (alternativo)\VelSync\obj\Debug\VelSync.Velsync_servico.resources
+F:\VelSync 21.11.23 (alternativo)\VelSync\obj\Debug\Velsync.Velsync_Usuarios.resources
+F:\VelSync 21.11.23 (alternativo)\VelSync\obj\Debug\VelSync.csproj.GenerateResource.cache
+F:\VelSync 21.11.23 (alternativo)\VelSync\obj\Debug\VelSync.csproj.CoreCompileInputs.cache
+F:\VelSync 21.11.23 (alternativo)\VelSync\obj\Debug\VelSync.csproj.CopyComplete
+F:\VelSync 21.11.23 (alternativo)\VelSync\obj\Debug\VelSync.exe
+F:\VelSync 21.11.23 (alternativo)\VelSync\obj\Debug\VelSync.pdb
+E:\VelSync 23.11.23\VelSync\bin\Debug\VelSync.exe.config
+E:\VelSync 23.11.23\VelSync\bin\Debug\VelSync.exe
+E:\VelSync 23.11.23\VelSync\bin\Debug\VelSync.pdb
+E:\VelSync 23.11.23\VelSync\bin\Debug\BouncyCastle.Cryptography.dll
+E:\VelSync 23.11.23\VelSync\bin\Debug\FontAwesome.Sharp.dll
+E:\VelSync 23.11.23\VelSync\bin\Debug\Google.Protobuf.dll
+E:\VelSync 23.11.23\VelSync\bin\Debug\K4os.Compression.LZ4.dll
+E:\VelSync 23.11.23\VelSync\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\VelSync 23.11.23\VelSync\bin\Debug\K4os.Hash.xxHash.dll
+E:\VelSync 23.11.23\VelSync\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\VelSync 23.11.23\VelSync\bin\Debug\MySql.Data.dll
+E:\VelSync 23.11.23\VelSync\bin\Debug\System.Buffers.dll
+E:\VelSync 23.11.23\VelSync\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\VelSync 23.11.23\VelSync\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\VelSync 23.11.23\VelSync\bin\Debug\System.IO.Pipelines.dll
+E:\VelSync 23.11.23\VelSync\bin\Debug\System.Memory.dll
+E:\VelSync 23.11.23\VelSync\bin\Debug\System.Numerics.Vectors.dll
+E:\VelSync 23.11.23\VelSync\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\VelSync 23.11.23\VelSync\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\VelSync 23.11.23\VelSync\bin\Debug\ZstdSharp.dll
+E:\VelSync 23.11.23\VelSync\bin\Debug\BouncyCastle.Cryptography.xml
+E:\VelSync 23.11.23\VelSync\bin\Debug\Google.Protobuf.pdb
+E:\VelSync 23.11.23\VelSync\bin\Debug\Google.Protobuf.xml
+E:\VelSync 23.11.23\VelSync\bin\Debug\K4os.Compression.LZ4.xml
+E:\VelSync 23.11.23\VelSync\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\VelSync 23.11.23\VelSync\bin\Debug\K4os.Hash.xxHash.xml
+E:\VelSync 23.11.23\VelSync\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\VelSync 23.11.23\VelSync\bin\Debug\MySql.Data.xml
+E:\VelSync 23.11.23\VelSync\bin\Debug\System.Buffers.xml
+E:\VelSync 23.11.23\VelSync\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\VelSync 23.11.23\VelSync\bin\Debug\System.IO.Pipelines.xml
+E:\VelSync 23.11.23\VelSync\bin\Debug\System.Memory.xml
+E:\VelSync 23.11.23\VelSync\bin\Debug\System.Numerics.Vectors.xml
+E:\VelSync 23.11.23\VelSync\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\VelSync 23.11.23\VelSync\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\VelSync 23.11.23\VelSync\obj\Debug\VelSync.csproj.AssemblyReference.cache
+E:\VelSync 23.11.23\VelSync\obj\Debug\VelSync.Velsync_agendamento.resources
+E:\VelSync 23.11.23\VelSync\obj\Debug\VelSync.Velsync_funcionario.resources
+E:\VelSync 23.11.23\VelSync\obj\Debug\VelSync.Velsync_produtos.resources
+E:\VelSync 23.11.23\VelSync\obj\Debug\VelSync.Velsync_login.resources
+E:\VelSync 23.11.23\VelSync\obj\Debug\Velsync.Frm_dashboard.resources
+E:\VelSync 23.11.23\VelSync\obj\Debug\VelSync.Properties.Resources.resources
+E:\VelSync 23.11.23\VelSync\obj\Debug\VelSync.Velsync_servico.resources
+E:\VelSync 23.11.23\VelSync\obj\Debug\Velsync.Velsync_Usuarios.resources
+E:\VelSync 23.11.23\VelSync\obj\Debug\VelSync.csproj.GenerateResource.cache
+E:\VelSync 23.11.23\VelSync\obj\Debug\VelSync.csproj.CoreCompileInputs.cache
+E:\VelSync 23.11.23\VelSync\obj\Debug\VelSync.csproj.CopyComplete
+E:\VelSync 23.11.23\VelSync\obj\Debug\VelSync.exe
+E:\VelSync 23.11.23\VelSync\obj\Debug\VelSync.pdb
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\bin\Debug\VelSync.exe.config
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\bin\Debug\VelSync.exe
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\bin\Debug\VelSync.pdb
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\bin\Debug\BouncyCastle.Cryptography.dll
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\bin\Debug\FontAwesome.Sharp.dll
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\bin\Debug\Google.Protobuf.dll
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\bin\Debug\K4os.Compression.LZ4.dll
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\bin\Debug\K4os.Hash.xxHash.dll
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\bin\Debug\MySql.Data.dll
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\bin\Debug\System.Buffers.dll
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\bin\Debug\System.Configuration.ConfigurationManager.dll
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\bin\Debug\System.IO.Pipelines.dll
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\bin\Debug\System.Memory.dll
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\bin\Debug\System.Numerics.Vectors.dll
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\bin\Debug\ZstdSharp.dll
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\bin\Debug\BouncyCastle.Cryptography.xml
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\bin\Debug\Google.Protobuf.pdb
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\bin\Debug\Google.Protobuf.xml
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\bin\Debug\K4os.Compression.LZ4.xml
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\bin\Debug\K4os.Hash.xxHash.xml
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\bin\Debug\MySql.Data.xml
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\bin\Debug\System.Buffers.xml
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\bin\Debug\System.IO.Pipelines.xml
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\bin\Debug\System.Memory.xml
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\bin\Debug\System.Numerics.Vectors.xml
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\obj\Debug\VelSync.csproj.AssemblyReference.cache
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\obj\Debug\VelSync.csproj.SuggestedBindingRedirects.cache
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\obj\Debug\VelSync.Velsync_agendamento.resources
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\obj\Debug\VelSync.Velsync_funcionario.resources
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\obj\Debug\VelSync.Velsync_produtos.resources
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\obj\Debug\VelSync.Velsync_login.resources
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\obj\Debug\Velsync.Frm_dashboard.resources
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\obj\Debug\VelSync.Properties.Resources.resources
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\obj\Debug\VelSync.Velsync_servico.resources
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\obj\Debug\Velsync.Velsync_Usuarios.resources
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\obj\Debug\VelSync.csproj.GenerateResource.cache
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\obj\Debug\VelSync.csproj.CoreCompileInputs.cache
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\obj\Debug\VelSync.csproj.CopyComplete
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\obj\Debug\VelSync.exe
+G:\MÓDULO 2\LINGUAGEM DE PROGRAMAÇÃO - LPOO\VelSync 26.11.23\VelSync\obj\Debug\VelSync.pdb
+F:\VelSync 27.11.23(atualizado)\VelSync\obj\Debug\VelSync.csproj.AssemblyReference.cache
+F:\VelSync 27.11.23(atualizado)\VelSync\obj\Debug\VelSync.csproj.SuggestedBindingRedirects.cache
+F:\VelSync 27.11.23(atualizado)\VelSync\obj\Debug\VelSync.Velsync_agendamento.resources
+F:\VelSync 27.11.23(atualizado)\VelSync\obj\Debug\VelSync.Velsync_funcionario.resources
+F:\VelSync 27.11.23(atualizado)\VelSync\obj\Debug\VelSync.Velsync_produtos.resources
+F:\VelSync 27.11.23(atualizado)\VelSync\obj\Debug\VelSync.Velsync_login.resources
+F:\VelSync 27.11.23(atualizado)\VelSync\obj\Debug\Velsync.Frm_dashboard.resources
+F:\VelSync 27.11.23(atualizado)\VelSync\obj\Debug\VelSync.Properties.Resources.resources
+F:\VelSync 27.11.23(atualizado)\VelSync\obj\Debug\VelSync.Velsync_servico.resources
+F:\VelSync 27.11.23(atualizado)\VelSync\obj\Debug\Velsync.Velsync_Usuarios.resources
+F:\VelSync 27.11.23(atualizado)\VelSync\obj\Debug\VelSync.csproj.GenerateResource.cache
+F:\VelSync 27.11.23(atualizado)\VelSync\obj\Debug\VelSync.csproj.CoreCompileInputs.cache
+F:\VelSync 27.11.23(atualizado)\VelSync\obj\Debug\VelSync.exe
+F:\VelSync 27.11.23(atualizado)\VelSync\obj\Debug\VelSync.pdb
+F:\VelSync 27.11.23(atualizado)\VelSync\bin\Debug\VelSync.exe.config
+F:\VelSync 27.11.23(atualizado)\VelSync\bin\Debug\VelSync.exe
+F:\VelSync 27.11.23(atualizado)\VelSync\bin\Debug\VelSync.pdb
+F:\VelSync 27.11.23(atualizado)\VelSync\bin\Debug\BouncyCastle.Cryptography.dll
+F:\VelSync 27.11.23(atualizado)\VelSync\bin\Debug\FontAwesome.Sharp.dll
+F:\VelSync 27.11.23(atualizado)\VelSync\bin\Debug\Google.Protobuf.dll
+F:\VelSync 27.11.23(atualizado)\VelSync\bin\Debug\K4os.Compression.LZ4.dll
+F:\VelSync 27.11.23(atualizado)\VelSync\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\VelSync 27.11.23(atualizado)\VelSync\bin\Debug\K4os.Hash.xxHash.dll
+F:\VelSync 27.11.23(atualizado)\VelSync\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\VelSync 27.11.23(atualizado)\VelSync\bin\Debug\MySql.Data.dll
+F:\VelSync 27.11.23(atualizado)\VelSync\bin\Debug\System.Buffers.dll
+F:\VelSync 27.11.23(atualizado)\VelSync\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\VelSync 27.11.23(atualizado)\VelSync\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\VelSync 27.11.23(atualizado)\VelSync\bin\Debug\System.IO.Pipelines.dll
+F:\VelSync 27.11.23(atualizado)\VelSync\bin\Debug\System.Memory.dll
+F:\VelSync 27.11.23(atualizado)\VelSync\bin\Debug\System.Numerics.Vectors.dll
+F:\VelSync 27.11.23(atualizado)\VelSync\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\VelSync 27.11.23(atualizado)\VelSync\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\VelSync 27.11.23(atualizado)\VelSync\bin\Debug\ZstdSharp.dll
+F:\VelSync 27.11.23(atualizado)\VelSync\bin\Debug\BouncyCastle.Cryptography.xml
+F:\VelSync 27.11.23(atualizado)\VelSync\bin\Debug\Google.Protobuf.pdb
+F:\VelSync 27.11.23(atualizado)\VelSync\bin\Debug\Google.Protobuf.xml
+F:\VelSync 27.11.23(atualizado)\VelSync\bin\Debug\K4os.Compression.LZ4.xml
+F:\VelSync 27.11.23(atualizado)\VelSync\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\VelSync 27.11.23(atualizado)\VelSync\bin\Debug\K4os.Hash.xxHash.xml
+F:\VelSync 27.11.23(atualizado)\VelSync\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\VelSync 27.11.23(atualizado)\VelSync\bin\Debug\MySql.Data.xml
+F:\VelSync 27.11.23(atualizado)\VelSync\bin\Debug\System.Buffers.xml
+F:\VelSync 27.11.23(atualizado)\VelSync\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\VelSync 27.11.23(atualizado)\VelSync\bin\Debug\System.IO.Pipelines.xml
+F:\VelSync 27.11.23(atualizado)\VelSync\bin\Debug\System.Memory.xml
+F:\VelSync 27.11.23(atualizado)\VelSync\bin\Debug\System.Numerics.Vectors.xml
+F:\VelSync 27.11.23(atualizado)\VelSync\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\VelSync 27.11.23(atualizado)\VelSync\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\VelSync 27.11.23(atualizado)\VelSync\obj\Debug\VelSync.csproj.CopyComplete
